@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balamuruga Muthumani</h1>
 <h3 align="center">A passionate Data Scientist/Musician from India</h3>
 
-- 🔭 I’m currently working on **Gesture Recognition**
+- 🔭 I’m currently working on **Resume Builder recommendation engine**
 
 - 👯 I’m looking to collaborate on **Music Generation/MIR related projects**
 
-- 💬 Ask me about **Python,Machine learning, Deep learning,Music, etc :P**
+- 💬 Ask me about **Python,Machine learning, Deep learning,Music, etc**
 
 - 📫 How to reach me **balamurugads@gmail.com**
 
